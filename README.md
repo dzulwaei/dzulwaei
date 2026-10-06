@@ -4,7 +4,7 @@ Computer Science student at UiTM interested in Software Engineering and AI
 
 ## About me
 - Studying: Computer Science, UiTM
-- Currently learning: Artificial Algorithm
+- Currently learning: Artificial Intelligence
 - My FYP area: ML & DL
 
 ## Skills and tools
